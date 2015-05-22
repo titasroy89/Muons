@@ -1,0 +1,12 @@
+g++ -c -I`root-config --incdir` Histogrammer.cpp
+g++ -c -I`root-config --incdir` HistCollect.cpp
+g++ -c -I`root-config --incdir` Selector.cpp
+g++ -c -I`root-config --incdir` EventPick.cpp 
+g++ -c -I`root-config --incdir` EventTree.cpp
+g++ -o makeTemplates `root-config --libs` -I`root-config --incdir` EventTree.o Selector.o EventPick.o Histogrammer.o HistCollect.o makeTemplates.cpp OverlapRemove.cpp PUReweight.cpp JetMETObjects/FactorizedJetCorrector.o JetMETObjects/JetCorrectorParameters.o JetMETObjects/SimpleJetCorrector.o JetMETObjects/JetCorrectionUncertainty.o JetMETObjects/SimpleJetCorrectionUncertainty.o
+makeTemplates.cpp: In function 'int main(int, char**)':
+makeTemplates.cpp:95:3: error: 'looseCollectNoMET' was not declared in this scope
+makeTemplates.cpp:187:44: error: 'getMuEff' was not declared in this scope
+makeTemplates.cpp:191:10: error: redeclaration of 'double evtWeight'
+makeTemplates.cpp:184:10: error: 'double evtWeight' previously declared here
+make: *** [makeTemplates] Error 1

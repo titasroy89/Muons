@@ -1,0 +1,33 @@
+This package is designed to read events in ggNtuple format, perform event selection and produce histograms as output.
+
+Main internal parts:
+
+EventTree - class to read the contents of the tree. Almost of a "MakeClass" kind.
+
+Selector - class to do object selection. All objects are treated independently from others (electrons, photons, etc)
+	Selected objects are stored as indices in vectors. Rho corrected isolations for 
+	electrons, muons, photons are calculated and stored in vectors too.
+	Most of the object cuts are public class parameters -> easy to have several selections in main loop.
+
+EventPick - class to do event selection based on objects selected and event properties. 
+	Here event related cuts are used, like minimum dR between photon and jet, minimum number of jets, etc.
+	Cut flow table (histogram) is filled here.
+	For easier handling the indices of objects that passed event level cuts are also stored in vectors.
+	For photons results of certain cuts (passing isolation, sihih, etc) are stored in vectors too.
+	In the end the flags PassPresel and PassAll are set.
+
+HistCollect - class that holds several Histogrammer objects and fills them accordingly.
+	Separation is made by leading photon region (barrel-endcap) and MC truth information.
+
+Histogrammer - class to make histograms and fill them based on flags from EventPick.
+	Object indices are taken from EventPick object.
+
+
+Executables:
+
+makeTemplates - read the list of files, perform event selection, save all histograms.
+
+makeSkim - read the list of files, perform event selection, save events that passed selection in ggNtuple format.
+	Allows to drop unnecessary branches.
+
+

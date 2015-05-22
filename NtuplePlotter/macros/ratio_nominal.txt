@@ -1,0 +1,182 @@
+reading file  ../../hist/hist_1pho_rs_barrel_top_TTGamma.root
+reading file  ../../hist/hist_1pho_top_TTGamma.root
+reading file  ../../hist/hist_1pho_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_a.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_b.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_c.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_d.root
+reading file  ../../hist/hist_1pho_barrel_top_TTGamma.root
+reading file  ../../hist/hist_1pho_barrel_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_barrel_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_barrel_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_barrel_top_Zgamma.root
+reading file  ../../hist/hist_1pho_barrel_top_Wgamma.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleT_t.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleT_s.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleT_tw.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleTbar_t.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleTbar_s.root
+reading file  ../../hist/hist_1pho_barrel_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1pho_barrel_top_W3Jets.root
+reading file  ../../hist/hist_1pho_barrel_top_W4Jets.root
+reading file  ../../hist/hist_1pho_barrel_top_ZJets.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_TTGamma.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_Zgamma.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_Wgamma.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleT_t.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleT_s.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleT_tw.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleTbar_t.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleTbar_s.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_W3Jets.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_W4Jets.root
+reading file  ../../hist/hist_1pho_rs_barrel_top_ZJets.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_TTGamma.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_Zgamma.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_Wgamma.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleT_t.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleT_s.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleT_tw.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleTbar_t.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleTbar_s.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_W3Jets.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_W4Jets.root
+reading file  ../../hist/hist_1pho_fe_barrel_top_ZJets.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_TTGamma.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_Zgamma.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_Wgamma.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleT_t.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleT_s.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleT_tw.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleTbar_t.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleTbar_s.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_W3Jets.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_W4Jets.root
+reading file  ../../hist/hist_1pho_fjrb_barrel_top_ZJets.root
+calculating integrals in bins 95 300
+Photon Et range: all
+Signal Integral:  955.933757436
+Background Integral:  116.539380271
+Data Integral:  1157.97530321
+[-0.59999999999999964, 0.0, 0.80000000000000071, 2.0, 3.2000000000000011, 4.4000000000000004, 6.1999999999999993, 8.1999999999999993, 14.0, 20.0]
+new number of boundaries  10
+sig_templR underflow  47.8375587463
+setting to 0
+##################################################
+lower bin is underfow, setting to 1
+fitting in the bin range  1 10
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(signalDataHist): fit range of variable SCRChHadIso bin number expanded to nearest bin boundaries: [1,10] --> [1,10]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(backgroundDataHist): fit range of variable SCRChHadIso bin number expanded to nearest bin boundaries: [1,10] --> [1,10]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(data SCRChHadIso bin number): fit range of variable SCRChHadIso bin number expanded to nearest bin boundaries: [1,10] --> [1,10]
+[#1] INFO:Minization --  The following expressions have been identified as constant and will be precalculated and cached: (signalPdf,backgroundPdf)
+[#1] INFO:InputArguments -- RooAbsData::plotOn(data SCRChHadIso bin number) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) directly selected PDF components: (signalPdf)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) directly selected PDF components: (backgroundPdf)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) indirectly selected PDF components: ()
+fit returned value  0.536821764183  +-  0.0274496505764
+Signal Fit Range bins 8 110
+Background Fit Range bins 48 150
+Signal Nominal selection bins 8 35
+Background Nominal selection bins 48 75
+##################################################
+Signal fraction in Nominal selected region:  0.616409460878
+relative error on signal fraction after PE fit:  0.0511336395204
+relative error on sig. and bckg. integrals: 0.0234067583965 0.0429567786979
+Final Signal Fraction value with error:  0.616409460878  +- 0.028551362246
+##################################################
+bins for normalization  1 9
+Side-band used:  0.012 0.01599
+Fit range considered:  -0.6 19.99
+Fraction of MC truth signal in the side-band with respect to pseudodata:  0.00927248197523
+MC truth signal fraction afetr Nominal selection is  0.649445968581
+MC truth signal fraction if SCR iso in fit range used as selection:  0.571995489655
+reading file  ../../hist/hist_1phoNoMET_top_Data_a.root
+reading file  ../../hist/hist_1phoNoMET_top_Data_b.root
+reading file  ../../hist/hist_1phoNoMET_top_Data_c.root
+reading file  ../../hist/hist_1phoNoMET_top_Data_d.root
+reading file  ../../hist/hist_1phoNoMET_top_TTGamma.root
+reading file  ../../hist/hist_1phoNoMET_top_TTJets1l.root
+reading file  ../../hist/hist_1phoNoMET_top_TTJets2l.root
+reading file  ../../hist/hist_1phoNoMET_top_TTJetsHad.root
+reading file  ../../hist/hist_1phoNoMET_top_Zgamma.root
+reading file  ../../hist/hist_1phoNoMET_top_Wgamma.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleT_t.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleT_s.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleT_tw.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleTbar_t.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleTbar_s.root
+reading file  ../../hist/hist_1phoNoMET_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1phoNoMET_top_W3Jets.root
+reading file  ../../hist/hist_1phoNoMET_top_W4Jets.root
+reading file  ../../hist/hist_1phoNoMET_top_ZJets.root
+reading file  ../../QCD/hist_1phoNoMET_top_Data_a.root
+reading file  ../../QCD/hist_1phoNoMET_top_Data_b.root
+reading file  ../../QCD/hist_1phoNoMET_top_Data_c.root
+reading file  ../../QCD/hist_1phoNoMET_top_Data_d.root
+reading file  ../../QCD/hist_1phoNoMET_top_TTGamma.root
+reading file  ../../QCD/hist_1phoNoMET_top_TTJets1l.root
+reading file  ../../QCD/hist_1phoNoMET_top_TTJets2l.root
+reading file  ../../QCD/hist_1phoNoMET_top_TTJetsHad.root
+reading file  ../../QCD/hist_1phoNoMET_top_Zgamma.root
+reading file  ../../QCD/hist_1phoNoMET_top_Wgamma.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleT_t.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleT_s.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleT_tw.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleTbar_t.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleTbar_s.root
+reading file  ../../QCD/hist_1phoNoMET_top_SingleTbar_tw.root
+reading file  ../../QCD/hist_1phoNoMET_top_W3Jets.root
+reading file  ../../QCD/hist_1phoNoMET_top_W4Jets.root
+reading file  ../../QCD/hist_1phoNoMET_top_ZJets.root
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(signalDataHist): fit range of variable MET expanded to nearest bin boundaries: [0,300] --> [0,300]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(backgroundDataHist): fit range of variable MET expanded to nearest bin boundaries: [0,300] --> [0,300]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(data MET): fit range of variable MET expanded to nearest bin boundaries: [0,300] --> [0,300]
+[#1] INFO:Minization --  The following expressions have been identified as constant and will be precalculated and cached: (signalPdf,backgroundPdf)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) directly selected PDF components: (signalPdf)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) directly selected PDF components: (backgroundPdf)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(totalPdf) indirectly selected PDF components: ()
+fit returned value  4.4408920985e-16  +-  4.64379734622e-06
+Will calculate integral in the bin range: 1 31
+Integral of Data in the desired range:  361461.0
+Integral of data-driven QCD in the desired range:  34388.5189567
+################################################################################
+Scale factor for QCD in nominal MET range:  4.66786400669e-15  +- 4.88113964627e-05 (fit error only)
+Correction to all MC scale factors:  1.21880982092  +- 5.65990581193e-06 (fit error only)
+################################################################################
+reading file  ../../hist/hist_1pho_top_Data_a.root
+reading file  ../../hist/hist_1pho_top_Data_b.root
+reading file  ../../hist/hist_1pho_top_Data_c.root
+reading file  ../../hist/hist_1pho_top_Data_d.root
+The purpose of this function is to save templates for M3 fit, without QCD it is useless
+reading file  ../../hist/hist_1pho_top_TTGamma.root
+reading file  ../../hist/hist_1pho_top_TTJets1l.root
+reading file  ../../hist/hist_1pho_top_TTJets2l.root
+reading file  ../../hist/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_top_Zgamma.root
+reading file  ../../hist/hist_1pho_top_Wgamma.root
+reading file  ../../hist/hist_1pho_top_SingleT_t.root
+reading file  ../../hist/hist_1pho_top_SingleT_s.root
+reading file  ../../hist/hist_1pho_top_SingleT_tw.root
+reading file  ../../hist/hist_1pho_top_SingleTbar_t.root
+reading file  ../../hist/hist_1pho_top_SingleTbar_s.root
+reading file  ../../hist/hist_1pho_top_SingleTbar_tw.root
+reading file  ../../hist/hist_1pho_top_W3Jets.root
+reading file  ../../hist/hist_1pho_top_W4Jets.root
+reading file  ../../hist/hist_1pho_top_ZJets.root
+now do M3 fit

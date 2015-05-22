@@ -1,0 +1,387 @@
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_a.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_b.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_c.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_d.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_ZJets.root
+calculating integrals in bins 95 300
+Photon Et range: all
+Signal Integral:  922.209879924
+Background Integral:  113.865047269
+Data Integral:  1117.87734278
+[-0.59999999999999964, 0.0, 0.80000000000000071, 2.0, 3.2000000000000011, 4.4000000000000004, 6.1999999999999993, 8.1999999999999993, 14.200000000000003, 20.0]
+new number of boundaries  10
+sig_templR underflow  47.020401001
+setting to 0
+##################################################
+lower bin is underfow, setting to 1
+fitting in the bin range  1 10
+fit returned value  0.537198975651  +-  0.0278319674847
+Signal Fit Range bins 8 110
+Background Fit Range bins 48 150
+Signal Nominal selection bins 8 35
+Background Nominal selection bins 48 75
+##################################################
+Signal fraction in Nominal selected region:  0.61639201147
+relative error on signal fraction after PE fit:  0.0518094202449
+relative error on sig. and bckg. integrals: 0.0219079417118 0.0433999451143
+Final Signal Fraction value with error:  0.61639201147  +- 0.0288586449993
+##################################################
+bins for normalization  1 9
+Side-band used:  0.012 0.01599
+Fit range considered:  -0.6 19.99
+Fraction of MC truth signal in the side-band with respect to pseudodata:  0.00948885996126
+MC truth signal fraction afetr Nominal selection is  0.651101331526
+MC truth signal fraction if SCR iso in fit range used as selection:  0.572029109566
+reading file  ../../hist/hist_1pho_top_Data_a.root
+reading file  ../../hist/hist_1pho_top_Data_b.root
+reading file  ../../hist/hist_1pho_top_Data_c.root
+reading file  ../../hist/hist_1pho_top_Data_d.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_ZJets.root
+reading file  ../../QCD/hist_1pho_top_Data_a.root
+reading file  ../../QCD/hist_1pho_top_Data_b.root
+reading file  ../../QCD/hist_1pho_top_Data_c.root
+reading file  ../../QCD/hist_1pho_top_Data_d.root
+reading file  ../../QCD/hist_1pho_top_TTGamma.root
+reading file  ../../QCD/hist_1pho_top_TTJets1l.root
+reading file  ../../QCD/hist_1pho_top_TTJets2l.root
+reading file  ../../QCD/hist_1pho_top_TTJetsHad.root
+reading file  ../../QCD/hist_1pho_top_Zgamma.root
+reading file  ../../QCD/hist_1pho_top_Wgamma.root
+reading file  ../../QCD/hist_1pho_top_SingleT_t.root
+reading file  ../../QCD/hist_1pho_top_SingleT_s.root
+reading file  ../../QCD/hist_1pho_top_SingleT_tw.root
+reading file  ../../QCD/hist_1pho_top_SingleTbar_t.root
+reading file  ../../QCD/hist_1pho_top_SingleTbar_s.root
+reading file  ../../QCD/hist_1pho_top_SingleTbar_tw.root
+reading file  ../../QCD/hist_1pho_top_W3Jets.root
+reading file  ../../QCD/hist_1pho_top_W4Jets.root
+reading file  ../../QCD/hist_1pho_top_ZJets.root
+fit returned value  0.0465789149157  +-  0.00187546182614
+Will calculate integral in the bin range: 1 31
+Integral of Data in the desired range:  361461.0
+Integral of data-driven QCD in the desired range:  22789.9388786
+################################################################################
+Scale factor for QCD in nominal MET range:  0.738767280335  +- 0.0297458589401 (fit error only)
+Correction to all MC scale factors:  1.25161481395  +- 0.00246203470986 (fit error only)
+################################################################################
+reading file  ../../hist/hist_1pho_top_Data_a.root
+reading file  ../../hist/hist_1pho_top_Data_b.root
+reading file  ../../hist/hist_1pho_top_Data_c.root
+reading file  ../../hist/hist_1pho_top_Data_d.root
+reading file  ../../QCD/hist_1pho_top_Data_a.root
+reading file  ../../QCD/hist_1pho_top_Data_b.root
+reading file  ../../QCD/hist_1pho_top_Data_c.root
+reading file  ../../QCD/hist_1pho_top_Data_d.root
+reading file  ../../QCD/hist_1pho_top_TTJets1l.root
+reading file  ../../QCD/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_ZJets.root
+now do M3 fit
+fit returned value  0.691138306196  +-  0.00430483392952
+################################################################################
+Correction to the Top scale factor:  1.09534433444  +- 0.00682247737267 (fit error only)
+Correction to WJets scale factor:  3.02456830369  +- 0.0421556460937 (fit error only)
+################################################################################
+reading file  ../../hist/hist_1pho_top_Data_a.root
+reading file  ../../hist/hist_1pho_top_Data_b.root
+reading file  ../../hist/hist_1pho_top_Data_c.root
+reading file  ../../hist/hist_1pho_top_Data_d.root
+reading file  ../../QCD/hist_1pho_top_Data_a.root
+reading file  ../../QCD/hist_1pho_top_Data_b.root
+reading file  ../../QCD/hist_1pho_top_Data_c.root
+reading file  ../../QCD/hist_1pho_top_Data_d.root
+reading file  ../../QCD/hist_1pho_top_TTJets1l.root
+reading file  ../../QCD/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_top_ZJets.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_a.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_b.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_c.root
+reading file  ../../hist/hist_1pho_barrel_top_Data_d.root
+reading file  ../../QCD/hist_1pho_barrel_top_Data_a.root
+reading file  ../../QCD/hist_1pho_barrel_top_Data_b.root
+reading file  ../../QCD/hist_1pho_barrel_top_Data_c.root
+reading file  ../../QCD/hist_1pho_barrel_top_Data_d.root
+reading file  ../../QCD/hist_1pho_barrel_top_TTJets1l.root
+reading file  ../../QCD/hist_1pho_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_rs_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fe_barrel_top_ZJets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTGamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJets1l.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJets2l.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_TTJetsHad.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_Zgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_Wgamma.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleT_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_t.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_s.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_SingleTbar_tw.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_W3Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_W4Jets.root
+reading file  ../../hist_JEC_down/hist_1pho_fjrb_barrel_top_ZJets.root
+M3 fit after photon selection
+templates_presel_scaled.root
+1117.0 33.4215499341
+806.195289589 7.73285618548
+272.478187189 5.30293628047
+fit returned value  0.704226459371  +-  0.058215775226
+################################################################################
+Correction to BG samples after M3 fit:  1.21249722149  +- 0.242542779409 (fit + stat error)
+Correction to ttbar samples after M3 fit:  0.975720108111  +- 0.0862890252636 (fit + stat error)
+################################################################################
+********************************************************************************
+#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$
+input data
+photon Purity:  0.61639201147  +- 0.0288586449993
+TopSF:  1.09534433444  +- 0.00682247737267
+WJetsSF:  3.02456830369  +- 0.0421556460937
+eleFakeSF:  1.5  +- 0.2
+
+Opening file with pre-selection histograms
+File was last modified:  Fri May 15 08:29:11 2015
+
+229364.701431 139.439986374
+TTJets presel events expected  229364.701431  +- 139.439986374 (MC stat)
+
+3560.65499556 16.3117894585
+TTGamma presel events expected  3560.65499556  +- 16.3117894585 (MC stat)
+
+
+taking into account fit error and ttgamma contribution:  232925.356427  +- 1457.57902608 (MC stat+fit)
+
+3543.49304199 16.2724311343
+number of signal events with one or two leptons in preselection  3543.49304199  +- 16.2724311343 (MC stat)
+Opening file with photon in barrel
+File was last modified:  Fri May 15 08:29:12 2015
+
+480.911468506 5.99472440128
+ttgamma signal events with one or two leptons and matched photon in barrel expected  480.911468506  +- 5.99472440128 (MC stat)
+
+signal photon acceptance 0.135716780817  +- 0.00231499434983
+
+reconstruction efficiency: matched signal events in barrel
+483.349523306 6.00990086699
+fiducial photons in barrel after pre-selection
+1728.74816895 11.3658659238
+signal photon reconstruction efficiency (with truth matching to photon) 0.279595103549  +- 0.00393252833269
+
+TTJets acceptance calculation
+File was last modified:  Fri May 15 08:29:07 2015
+2158973.75 1469.34466685
+717530.5 847.071720694
+117.349899292 10.8328158524
+Inclusive ttbar acceptance  0.0442927170096  +- 2.69270938355e-05
+
+TTgamma acceptance calculation
+File was last modified:  Mon Apr  6 13:04:50 2015
+270371.0 519.972114637
+3008.0 54.8452368032
+47419.640625 217.760512088
+6435.64111328 80.2224476894
+Acceptance for ttgamma after top selection  0.175387303464  +/- 0.000873191540091
+Acceptance for visible ttgamma after top selection  15.7645081865  +/- 0.296412630729
+
+Product of ttgamma acceptance for top and photon calculated at once 0.0238030007408
+
+1173.0 34.2490875791
+Data events 1173.0  +- 34.2490875791
+getting counts for  TTGamma signal
+483.349523306 6.00990086699
+getting counts for  TTJets signal
+0.0 0.0
+getting counts for  Vgamma signal
+152.585178405 17.6184074316
+getting counts for  SingleTop signal
+12.0804553926 2.2433384472
+getting counts for  WJets signal
+8.53254449368 3.84127095298
+getting counts for  ZJets signal
+0.0 0.0
+getting counts for  TTGamma electron
+0.330949224532 0.157259662877
+getting counts for  TTJets electron
+26.0848869365 1.08312632168
+getting counts for  Vgamma electron
+0.0 0.0
+getting counts for  SingleTop electron
+1.00894457102 0.66830783443
+getting counts for  WJets electron
+0.0 0.0
+getting counts for  ZJets electron
+0.0 0.0
+getting counts for  TTGamma fake
+13.0279466584 0.986676180621
+getting counts for  TTJets fake
+315.742627092 4.89461106162
+getting counts for  Vgamma fake
+10.3647911549 4.56839780537
+getting counts for  SingleTop fake
+17.3790700585 2.72092374291
+getting counts for  WJets fake
+74.7110612392 10.5479246003
+getting counts for  ZJets fake
+10.2667138577 4.72600716478
+max likelihood  0.99876013179
+best ttgSF 0.94
+best VgSF 1.35
+best jgSF 1.01
+total number of MC events  1170.84052058   Data: 1173.0
+photon purity in MC  0.616701348834   template fit: 0.61639201147
+top fraction in MC  0.704802483462   M3 fit: 0.704226459371
+number of signal events 454.348551908  +/- 78.2411380733
+********************************************************************************
+final answer: cross section ratio:
+0.00362971896387  +- 0.000628789194874
+********************************************************************************
+visible cross section ratio:
+1.96017440124e-05  +- 3.4089843147e-06
+********************************************************************************
