@@ -228,41 +228,50 @@ int main(int ac, char** av){
 }
 
 
-double muTrigSF(double pt, double eta){
-	static double trigEffSF_PtEta[3][3] = { {0.984, 0.967, 0.991}, {0.999, 0.983, 1.018}, {0.999, 0.988, 0.977} };
-	static double trigEffSFerr_PtEta[3][3] = { {0.002, 0.002, 0.007}, {0.003, 0.002, 0.012}, {0.002, 0.003, 0.015} };
+double muTrigSF(double eta){
+	static double trigEffSF_Eta[3] = {0.9815, 0.9651, 0.9968};
+	static double trigEffSFerr_Eta[3] ={0.00024, 0.00068, 0.00053};
 	
 	int etaRegion = 0;
-	if( eta > 0.80) etaRegion++;
-	if( eta > 1.48) etaRegion++;
+	if( eta > 0.9) etaRegion++;
+	if( eta > 1.2) etaRegion++;
 
-	int ptRegion = 0;
-	if( pt > 40 ) ptRegion++;
-	if( pt > 50 ) ptRegion++;
 
-	if(mueff012_g == 1) return trigEffSF_PtEta[ptRegion][etaRegion];
-	if(mueff012_g == 0) return trigEffSF_PtEta[ptRegion][etaRegion] - trigEffSFerr_PtEta[ptRegion][etaRegion];
-	if(mueff012_g == 2) return trigEffSF_PtEta[ptRegion][etaRegion] + trigEffSFerr_PtEta[ptRegion][etaRegion];
+	if(mueff012_g == 1) return trigEffSF_Eta[etaRegion];
+	if(mueff012_g == 0) return trigEffSF_Eta[etaRegion] - trigEffSFerr_Eta[etaRegion];
+	if(mueff012_g == 2) return trigEffSF_Eta[etaRegion] + trigEffSFerr_Eta[etaRegion];
 	return 1.0;	
 }
 
-double muIDSF(double pt, double eta){
-	static double idEffSF_PtEta[3][3] = { {0.950, 0.957, 0.922}, {0.966, 0.961, 0.941}, {0.961, 0.963, 0.971} };
-	static double idEffSFerr_PtEta[3][3] = { {0.003, 0.002, 0.004}, {0.001, 0.002, 0.007}, {0.002, 0.003, 0.0} };
+double muIDSF(double eta){
+	static double idEffSF_Eta[3] = {0.9959, 0.9878, 1.0002};
+	static double idEffSFerr_Eta[3] = {0.00002, 0.0003, 0.0002};
 
 	int etaRegion = 0;
-	if( eta > 0.80) etaRegion++;
-	if( eta > 1.48) etaRegion++;
+	if( eta > 0.9) etaRegion++;
+	if( eta > 1.2) etaRegion++;
 
-	int ptRegion = 0;
-	if( pt > 40 ) ptRegion++;
-	if( pt > 50 ) ptRegion++;
 
-	if(mueff012_g == 1) return idEffSF_PtEta[ptRegion][etaRegion];
-	if(mueff012_g == 0) return idEffSF_PtEta[ptRegion][etaRegion] - idEffSFerr_PtEta[ptRegion][etaRegion];
-	if(mueff012_g == 2) return idEffSF_PtEta[ptRegion][etaRegion] + idEffSFerr_PtEta[ptRegion][etaRegion];	
+	if(mueff012_g == 1) return idEffSF_Eta[etaRegion];
+	if(mueff012_g == 0) return idEffSF_Eta[etaRegion] - idEffSFerr_Eta[etaRegion];
+	if(mueff012_g == 2) return idEffSF_Eta[etaRegion] + idEffSFerr_Eta[etaRegion];	
 	return 1.0;
 }
+double muIsoSF(double eta){
+        static double IsoSF_Eta[3] = {0.950, 0.957, 0.922};
+        static double IsoSFerr_Eta[3] = {0.003, 0.002, 0.004};
+
+        int etaRegion = 0;
+        if( eta > 0.9) etaRegion++;
+        if( eta > 1.2) etaRegion++;
+
+
+        if(mueff012_g == 1) return IsoSF_Eta[etaRegion];
+        if(mueff012_g == 0) return IsoSF_Eta[etaRegion] - IsoSFerr_Eta[etaRegion];
+        if(mueff012_g == 2) return IsoSF_Eta[etaRegion] + IsoSFerr_Eta[etaRegion];                        
+        return 1.0;
+}
+
 
 // AN2012_438_v10 page9
 double getMuEff(EventTree* tree, EventPick* evt){
@@ -271,16 +280,18 @@ double getMuEff(EventTree* tree, EventPick* evt){
 	double pt = tree->muPt_->at(muInd);
 	double eta = TMath::Abs(tree->muEta_->at(muInd));
 	
-	double trigSF = muTrigSF(pt, eta);
-	double idSF = muIDSF(pt, eta);
-	if(evt->Muons.size() == 1) return trigSF*idSF;
+	double trigSF = muTrigSF(eta);
+	double idSF = muIDSF(eta);
+	double IsoMuSF = muIsoSF( eta); 
+	if(evt->Muons.size() == 1) return trigSF*idSF*IsoMuSF;
 	if(evt->Muons.size() == 2){
 		int muInd2 = evt->Muons[1];	
 		double pt2 = tree->muPt_->at(muInd2);
 		double eta2 = TMath::Abs(tree->muEta_->at(muInd2));
-		double trigSF2 = muTrigSF(pt2, eta2);
-		double idSF2 = muIDSF(pt2, eta2);
-		return ( 1.0 - (1.0-trigSF)*(1.0-trigSF2) )*idSF*idSF2;
+		double trigSF2 = muTrigSF(eta2);
+		double idSF2 = muIDSF(eta2);
+		double IsoMuSF2 = muIsoSF(eta2);
+		return ( 1.0 - (1.0-trigSF)*(1.0-trigSF2) )*idSF*idSF2*IsoMuSF*IsoMuSF2;
 	}
 	return 1.0;
 }
@@ -479,4 +490,7 @@ double getBtagSF(EventTree* tree, EventPick* evt){
 	}
 	return 1.0 - prod;
 }
+
+
+
 
